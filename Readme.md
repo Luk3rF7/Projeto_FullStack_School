@@ -1,6 +1,6 @@
 # Projeto Escola
 
-### Nesse projeto Do curso Vamos introduzir o backend utilizando Api_rest com frontend utilizando React:
+### Nesse projeto Vamos introduzir o backend utilizando uma  Api_rest com React:
 
 <br />
 
