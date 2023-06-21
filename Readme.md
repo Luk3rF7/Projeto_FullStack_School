@@ -1,13 +1,21 @@
-# Projeto Escola
+<h1 align="center"> Projeto Escola </h1>
 
-### Nesse projeto Vamos introduzir o backend utilizando uma  Api_rest com React:
+<p align="left"> Nesse projeto Vamos introduzir o backend utilizando uma  Api_rest com React: </h2> 
+<h2 align="left"> Primeiro passo : </h2> 
+ <p align="left"> Faça o import da pasta db_projeto  no MySql workbanch </p>
+<h2 align=""left>Segundo Passo : </h2>
+<p align="left"> Executar backend e  frontend </p>
+
+<h2 align="center"> Abra dois terminal um para roda Backend e outro frontend </h2>
+  <div align="center">
+    <img src="./imgProjeto/terminal.png" alt="Terminal e comando">
+  </div>
 
 <br />
 
-## Primeiro passo import na pasta db_projeto MySql workbanch a pasta e arquivo Sql
 
 
-# imagem do Projeto
+<h1 align="center">  imagem do Projeto </h1>
 
 ## homePage do Projeto
 ![alt text](./imgProjeto/HomePage.png)
