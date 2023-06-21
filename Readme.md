@@ -8,10 +8,11 @@
 
 <h2 align="center"> Abra dois terminal um para roda Backend e outro frontend </h2>
   <div align="center">
+   <p> Cada Pasta frontend & Backend contem Readme Sobre projeto</p>
     <img src="./imgProjeto/terminal.png" alt="Terminal e comando">
   </div>
-
 <br />
+
 
 
 
