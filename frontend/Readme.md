@@ -1,6 +1,4 @@
-# Template React
-
-## Repositorio Para ter Base sobre:
+<h1 align="center">Tecnologia utilizada nesse Projeto Frontend </h1>
 
 
  - React
